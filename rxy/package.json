@@ -1,0 +1,20 @@
+{
+  "name": "rxy",
+  "displayName": "rxy",
+  "description": "A clean dark theme",
+  "version": "0.0.1",
+  "publisher": "zen0x",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "rxy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rxy.json"
+      }
+    ]
+  }
+}
