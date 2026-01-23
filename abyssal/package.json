@@ -4,6 +4,14 @@
   "description": "A clean dark theme",
   "version": "0.0.3",
   "publisher": "zen0x",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zen0x00/abyssal-vscode-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/zen0x00/abyssal-vscode-theme/issues"
+  },
+  "homepage": "https://github.com/zen0x00/abyssal-vscode-theme",
   "engines": {
     "vscode": "^1.80.0"
   },
