@@ -1,19 +1,21 @@
 {
-  "name": "rxy",
-  "displayName": "rxy",
+  "name": "abyssal",
+  "displayName": "Abyssal",
   "description": "A clean dark theme",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "zen0x",
   "engines": {
     "vscode": "^1.80.0"
   },
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
-        "label": "rxy",
+        "label": "Abyssal",
         "uiTheme": "vs-dark",
-        "path": "./themes/rxy.json"
+        "path": "./themes/abyssal.json"
       }
     ]
   }

@@ -1,1 +1,1 @@
-# rxy-vscode-theme
+# abyssal-vscode-theme
