@@ -2,7 +2,7 @@
   "name": "abyssal",
   "displayName": "Abyssal",
   "description": "A clean dark theme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "zen0x",
   "repository": {
     "type": "git",
@@ -23,7 +23,62 @@
       {
         "label": "Abyssal",
         "uiTheme": "vs-dark",
-        "path": "./themes/abyssal.json"
+        "path": "./themes/dark.json"
+      },
+      {
+        "label": "Abyssal-Anime",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anime.json"
+      },
+      {
+        "label": "Abyssal-Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black.json"
+      },
+      {
+        "label": "Abyssal-Catppuccin",
+        "uiTheme": "vs-dark",
+        "path": "./themes/catppuccin.json"
+      },
+      {
+        "label": "Abyssal-dracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula.json"
+      },
+      {
+        "label": "Abyssal-E-Ink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/e-ink.json"
+      },
+      {
+        "label": "Abyssal-Everforest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/everforest.json"
+      },
+      {
+        "label": "Abyssal-Gruvbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox.json"
+      },
+      {
+        "label": "Abyssal-Hacker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hacker.json"
+      },
+      {
+        "label": "Abyssal-Nord",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nord.json"
+      },
+      {
+        "label": "Abyssal-Tokyo-Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyonight.json"
+      },
+      {
+        "label": "Abyssal-Latte",
+        "uiTheme": "vs-light",
+        "path": "./themes/latte.json"
       }
     ]
   }
