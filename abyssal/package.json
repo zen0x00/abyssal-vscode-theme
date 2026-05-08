@@ -2,7 +2,7 @@
   "name": "abyssal",
   "displayName": "Abyssal",
   "description": "A clean dark theme",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "publisher": "zen0x",
   "repository": {
     "type": "git",
@@ -24,6 +24,11 @@
         "label": "Abyssal",
         "uiTheme": "vs-dark",
         "path": "./themes/dark.json"
+      },
+      {
+        "label": "Abyssal-Default",
+        "uiTheme": "vs-dark",
+        "path": "./themes/default.json"
       },
       {
         "label": "Abyssal-Anime",
